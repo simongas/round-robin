@@ -1,5 +1,5 @@
 {
-    "name": "teka/round-robin",
+    "name": "simongas/round-robin",
     "description": "RoundRobin for Laravel 8.*",
     "keywords": ["laravel", "roundrobin"],
     "license": "MIT",
