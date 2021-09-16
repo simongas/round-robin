@@ -1,6 +1,6 @@
 {
     "name": "teka/round-robin",
-    "description": "RoundRobin for Laravel 5.8+.",
+    "description": "RoundRobin for Laravel 8.*",
     "keywords": ["laravel", "roundrobin"],
     "license": "MIT",
     "authors": [
