@@ -22,8 +22,6 @@
         "laravel/framework": "8.*",
         "php": ">=7.2.5"
     },
-    "require-dev": {
-    },
     "autoload": {
         "psr-4": {
             "Teka\\RoundRobin\\": "src/"
